@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="np7;l^lqt6P:taIK#]~M" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="FTxpeNJv?B!#GdN]TYB9"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . . . 
+        # . . . .
+        `</field><next><block type="device_start_melody" id=")K8W6uI#$YuxAdp2:{G!"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="%A[eHOt0NIMx.XC4Xi@4"><field name="melody">Melodies.Dadadadum</field></block></value></block></next></block></statement></block><block type="device_button_event" id="93q,x+dmQagf[}5X`w{!" x="450" y="100"><field name="NAME">Button.A</field></block></xml>
